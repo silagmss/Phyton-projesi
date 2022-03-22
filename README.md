@@ -1,1 +1,1 @@
-# Phyton-projesi
+Patika.dev phyton projesi
